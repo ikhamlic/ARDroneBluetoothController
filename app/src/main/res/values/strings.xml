@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DroneRemoteBluetooth</string>
+    <string name="connect_client">Connecter client</string>
+    <string name="connect_server">Connecter serveur</string>
+    <string name="connect_indication">Voulez-vous connecter le serveur ou le client Bluetooth ?</string>
+    <string name="client_connecting">Client se connecte</string>
+    <string name="server_connecting">Serveur en attente</string>
+    <string name="waiting_server_connection">* ATTENTE DE CONNEXION DU SERVEUR \n*</string>
+    <string name="waiting_client_connection">* ATTENTE DE CONNEXION DU CLIENT \n*</string>
+    <string name="connection_succeeded">*CONNECTE AVEC SUCCES \n*</string>
+
+    <string name="connect">Connect</string>
+    <string name="title_activity_drone_controls">DroneControls</string>
+
+    <string name="up">Up</string>
+    <string name="forward">FWD</string>
+    <string name="hover">HOVER</string>
+    <string name="turnleft">T. LEFT</string>
+    <string name="turnright">T. RIGHT</string>
+    <string name="backward">BWD</string>
+    <string name="down">DOWN</string>
+    <string name="adjust">ADJUST</string>
+    <string name="takeoff">TAKE OFF</string>
+    <string name="land">LAND</string>
+    <string name="end">END</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="moveright">MV RIGHT</string>
+    <string name="mvleft">MV LEFT</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="following_you">Following you</string>
+    <string name="waiting_wifi">Waiting Wifi signal</string>
+</resources>
