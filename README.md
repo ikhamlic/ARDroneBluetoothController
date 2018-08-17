@@ -2,7 +2,7 @@
 
 ARDroneBluetoothController is a bluetooth controller app compatible with ARDrone 2.0. 
 
-Here is a screenshot of the bot in action:
+Here is a screenshot of the app:
 
 ![Screenshot of the app](https://i.imgur.com/CS2FlPC.png)
 
